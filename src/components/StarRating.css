@@ -1,0 +1,13 @@
+.star {
+    position: relative;
+}
+
+.star-bg,
+.star-fg {
+    top: 0;
+    left: 0;
+}
+
+.star-fg {
+    overflow: hidden;
+}
